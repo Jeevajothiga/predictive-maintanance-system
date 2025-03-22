@@ -1,0 +1,53 @@
+Vibration_mm_s,Temperature_C,Pressure_Pa,Running_Hours,Predicted_Fault
+6.5,50.0,1000,1200,Overheating
+2.8,80.0,2900,5000,Motor Failure
+10.0,60.0,2700,2199,Bearing Failure
+9.0,70.0,2500,2000,No Fault
+3.0,84.99,2999,3498,Pressure Leak
+6.49,50.0,1000,1199,Overheating
+6.5,50.0,1000,1200,Overheating
+6.5,50.0,1000,1197,Overheating
+6.49,50.0,1000,1199,Overheating
+3.0,84.99,2999,3498,Pressure Leak
+6.5,50.0,999,1197,Overheating
+6.49,50.0,1000,1998,Motor Failure
+6.5,50.0,1000,1197,Overheating
+6.49,50.0,1000,1199,Overheating
+3.0,84.99,2999,3498,Pressure Leak
+6.5,50.0,1000,1196,No Fault
+6.49,50.0,1000,1199,No Fault
+3.0,84.99,2999,3498,Pressure Leak
+6.5,50.0,1000,1195,Overheating
+6.49,50.0,1000,1199,Overheating
+3.0,84.99,2999,3498,Pressure Leak
+6.5,50.0,1000,1195,No Fault
+6.49,50.0,1000,1199,No Fault
+3.0,84.99,2999,3498,Pressure Leak
+6.5,50.0,1000,1195,Overheating
+6.49,50.0,1000,1198,Overheating
+3.99,50.0,1000,1198,No Fault
+2.98,50.0,2000,3500,Pressure Leak
+2.99,50.0,2000,3500,Pressure Leak
+2.99,50.0,2999,3500,Overheating
+2.99,50.0,2999,3498,Overheating
+3.0,50.0,2999,3498,Overheating
+6.5,50.0,1000,1195,Overheating
+6.49,50.0,1000,1199,Overheating
+3.0,84.99,2999,3498,Pressure Leak
+2.96,50.0,2001,3501,Pressure Leak
+2.97,50.0,2005,3495,Pressure Leak
+3.97,85.0,2998,3499,No Fault
+3.02,85.0,2998,3499,Pressure Leak
+3.01,85.0,3000,3500,Pressure Leak
+3.97,85.0,2998,3499,No Fault
+4.0,85.0,3001,3500,No Fault
+2.8,80.0,2900,4998,Motor Failure
+2.8,80.0,2900,5000,Motor Failure
+6.49,50.0,1000,1998,Motor Failure
+10.0,60.0,2700,2199,Bearing Failure
+10.0,60.0,2700,2200,Bearing Failure
+10.0,60.0,2700,2201,Bearing Failure
+10.0,60.0,2700,2204,Bearing Failure
+10.0,60.0,2698,2204,Bearing Failure
+6.5,50.0,1000,1200,Overheating
+9.0,70.0,2500,2000,No Fault
